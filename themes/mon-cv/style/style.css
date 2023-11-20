@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(255, 231, 189);
+    font-family: 'Prata', serif;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 30px 0;
+}
+
+h1, h2, h3 {
+    color: rgb(153, 15, 175);
+}
+
+hr {
+    background-color: rgb(150, 18, 171);
+    height: 2px;
+}
+
+#profile {
+    width: 200px;
+    height: 10%;
+    margin: 20px 0;
+}
